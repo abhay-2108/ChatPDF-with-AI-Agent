@@ -12,6 +12,13 @@ A powerful Streamlit-based application that allows you to chat with your PDF and
 - **🎨 Modern UI**: Clean, responsive interface with beautiful styling
 - **⚡ Real-time Processing**: Instant document processing and AI responses
 
+![image](https://github.com/user-attachments/assets/9910b95e-f065-4d16-9de4-8c693c92a396)
+
+![image](https://github.com/user-attachments/assets/d1d0921f-e5a5-4d35-8973-f075814e593b)
+
+![image](https://github.com/user-attachments/assets/011728b8-6060-43a6-bc4a-f5b136e40de9)
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
